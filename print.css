@@ -1,0 +1,14 @@
+  body{margin:1em;}
+  h1{display:none;}
+  #nav{display:none;}
+  #left{text-align:center;}
+  #left h2{font-size:14px;line-height:normal;margin:0;}
+  #toc{width:50%;margin:0 auto;font-size:12px;}
+  #toc b{display:block;text-align:center;margin-top:5px;}
+  #home,#store,#text{width:75%;margin:0 auto;background:white;text-align:justify;}
+  #text h2,#text h4{display:none;}
+  #footer{width:550px;float:right;background:white;text-align:center;color:#666;padding:1em 0;}
+  #conash3D0{display:none;}
+  #text h3{page-break-before:always;}
+  
+  

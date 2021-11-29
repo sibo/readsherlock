@@ -1,0 +1,19 @@
+  #home p, #store p, #text p{margin:0;text-indent:2em;padding:0 20px;}
+  h2, h4{margin-left:20px;}
+  h3{padding:2em 20px 1em;text-align:center;}
+  #text h3{padding-top:4em;background:url(hr.gif) center 20% no-repeat;}
+  #text h4 + h3{background:none;padding-top:0.5em;}
+  #text h3 + p:first-letter{font-size:1.5em;line-height:0.8;}
+  #text p a{color:black;text-decoration:none;}
+  #text p a:hover, #text p a:visited{text-decoration:underline;}
+  #text .centered{line-height:2;margin:2em auto;text-align:center;}
+  #store a{float:left;display:block;width:24%;text-align:center;margin-bottom:2em;}
+  #store p{clear:left;}
+  #home h3{text-align:left;padding-bottom:0.5em;}
+  #home h3 a{color:black;}
+  #home h3 a:hover{text-decoration:none;}
+  #home a{color:#B22;}
+  #home ol,#toc ol{padding:0 1em 0 3em;list-style-type:upper-roman;text-align:left;margin-top:0em;}
+  #home ol a,#toc a{text-decoration:none;}
+  #home ol a:visited,#toc a:visited{text-decoration:underline;}
+  #home ol a:hover,#toc a:hover{background:#eee;}

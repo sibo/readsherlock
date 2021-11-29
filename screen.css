@@ -1,0 +1,21 @@
+  body{background:black url(sherlockBG.png) left top no-repeat;font:14px/1.5 Helvetica, Arial, sans-serif;margin:0;text-align:center;}
+  #wrapper{width:790px;margin:0 auto;}
+  h1{margin:10px;color:white;text-align:center;font-size:20px;}
+  #left{float:left;width:236px;display:block;opacity:1;background:white;text-align:center;font-size:12px;}
+  #left a{color:#B22;}
+  #nav{list-style:none;}
+  #nav a{background:#B22222;color:white;text-decoration:none;width:25%;float:left;text-align:center;padding:2px 0;font-weight:900;margin-bottom:10px;border-bottom:1px solid #B22;}
+  #nav a:hover{background:#900;border-color:#300;}
+  #left h2{font-size:14px;line-height:normal;margin:0;clear:left}
+  #toc{font-size:12px;}
+  #toc b{display:block;text-align:center;margin-top:5px;}
+  #left p{text-align:left;padding:0 1em;}
+  #home,#store,#text{width:550px;float:right;background:white;text-align:justify;}
+  #footer{width:550px;float:right;background:white;text-align:center;color:#666;padding:1em 0;}
+  #conash3D0{display:none;}
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+#left{position:fixed;}
+} 
